@@ -2,28 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.org/post/good-to-great/</loc>
+    <loc>https://art62402.github.io/nomim/post/good-to-great/</loc>
     <lastmod>2017-04-03T20:34:09+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://art62402.github.io/nomim/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/post/</loc>
+    <loc>https://art62402.github.io/nomim/post/</loc>
     <lastmod>2017-04-03T20:34:09+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://art62402.github.io/nomim/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://art62402.github.io/nomim/</loc>
     <lastmod>2017-04-03T20:34:09+08:00</lastmod>
     <priority>0</priority>
   </url>
