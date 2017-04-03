@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>nomim </title>
+    <link>http://example.org/</link>
+    <language>en-us</language>
+    <author>name-nomin</author>
+    <rights>(C) 2017</rights>
+    <updated>2017-04-03 20:34:09 &#43;0800 CST</updated>
+
+    
+      
+        <item>
+          <title>good to great</title>
+          <link>http://example.org/post/good-to-great/</link>
+          <pubDate>Mon, 03 Apr 2017 20:34:09 CST</pubDate>
+          <author>name-nomin</author>
+          <guid>http://example.org/post/good-to-great/</guid>
+          <description>&lt;p&gt;I read &lt;strong&gt;Good to Great in January 2016&lt;/strong&gt;. An awesome read sharing detailed analysis on how good companies became great.`&lt;/p&gt;
+</description>
+        </item>
+      
+    
+
+  </channel>
+</rss>
